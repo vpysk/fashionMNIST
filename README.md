@@ -13,5 +13,6 @@ later dataset might be CIFAR-10.
 
 ## File information
 FYP.ipynb is the jupyter notebook that runs the program.
+
 network.py contains the NeuralNetwork class that I use in the 
 notebook to create the neural network model. 
